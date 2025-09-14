@@ -12,7 +12,7 @@ The dashboard is published on GitHub Pages and can be accessed here:
 ## Repository Contents
 - `index.html` – Entry point for the dashboard viewer  
 - `results.json` – Data Quality Dashboard results (generated from DQD in R)  
-- `lib/`, `css/`, and other static assets – Supporting files for the viewer  
+- `js/`, `css/`, and other static assets – Supporting files for the viewer  
 
 ## How to Update Results
 1. Run DQD in R and export results to a JSON file:
